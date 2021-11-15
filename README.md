@@ -10,7 +10,7 @@ I'm ~~a tree🌳 in the random forest~~ trying to find a balance between researc
 - 🧐 I'm also learning TypeScript and Vue.
 - 👾 I'm currently interested in making my own games in Unity.
 - 👨‍🎨 I'm designing science topic illustration with Ai and PS.
-- 🌭 My dream: `while(sleeping){money++;}
+- 🌭 My dream: `while(sleeping){money++;}`
 
 👇The followings I have never heard of 
 
