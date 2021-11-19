@@ -12,9 +12,5 @@ I'm ~~a tree🌳 in the random forest~~ trying to find a balance between researc
 - 👨‍🎨 I'm designing science topic illustration with Ai and PS.
 - 🌭 My dream: `while(sleeping){money++;}`
 
-👇The followings I have never heard of 
 
-![](http://test-123-imagebed.oss-cn-beijing.aliyuncs.com/img/-Python-F9DC3E.svg)![](http://test-123-imagebed.oss-cn-beijing.aliyuncs.com/img/-R-0078D6.svg)![](https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat)![](http://test-123-imagebed.oss-cn-beijing.aliyuncs.com/img/-CSS3-1572B6.svg)![](http://test-123-imagebed.oss-cn-beijing.aliyuncs.com/img/-HTML5-333.svg)![](http://test-123-imagebed.oss-cn-beijing.aliyuncs.com/img/-Vue-555.svg)![](http://test-123-imagebed.oss-cn-beijing.aliyuncs.com/img/-Cpp-000000.svg)
-
-![](http://test-123-imagebed.oss-cn-beijing.aliyuncs.com/img/-Ubuntu-6F52B5.svg)![](http://test-123-imagebed.oss-cn-beijing.aliyuncs.com/img/-VSCODE-007ACC.svg)![](http://test-123-imagebed.oss-cn-beijing.aliyuncs.com/img/-Docker-EEE.svg)
 
