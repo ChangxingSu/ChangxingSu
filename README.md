@@ -1,6 +1,6 @@
 ###  Hey there, you found me!👋
 
-[![](http://test-123-imagebed.oss-cn-beijing.aliyuncs.com/img/Blog-F0773A.svg)](http://sucx.tech)
+
 [![Zhihu](https://img.shields.io/badge/-Zhihu-136BFB?style=flat-square&logo=Zhihu&logoColor=white)](https://www.zhihu.com/people/su-chang-xing-65)
 
 I'm ~~a tree🌳 in the random forest~~ trying to find a balance between research and engineering.
