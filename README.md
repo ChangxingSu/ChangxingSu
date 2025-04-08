@@ -9,7 +9,7 @@ I'm ~~a tree🌳 in the random forest~~ trying to find a balance between researc
 <br/>
 
 <a href="https://gitstar-ranking.com/ChangxingSu">
-<img src="https://github-readme-stats.vercel.app/api?username=ChangxingSu&show_icons=true&bg_color=fff&title_color=00557f&text_color=81736d&hide_border=true&icon_color=216e39)" align="right" width=420 />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=changxingsu&show_icons=true&theme=transparent&hide_title=true&hide_rank=true&count_private=true&line_height=25&include_all_commits=true" alt="stat" />
 </a>
 
 - :microscope: I’m currently working on microbial genomics and metagenomics.
