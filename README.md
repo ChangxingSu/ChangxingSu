@@ -13,6 +13,6 @@ I'm ~~a tree🌳 in the random forest~~ trying to find a balance between researc
 </a>
 
 - :microscope: I’m currently working on microbial genomics and metagenomics.
-- 👨‍🎨 I'm designing science topic illustration with Adobe Illustrator
+- 👨‍🎨 I'm designing science topic illustration and pixel art with Adobe Illustrator and aseprite.
 - 🚀 I'm learning to build machine learning softwares and systems.
 - 🧐 I'm also learning TypeScript and React.
